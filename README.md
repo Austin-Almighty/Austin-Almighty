@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Austin Liao. I am a front-end developer based in Taipei, Taiwan!
 
 <!--
 **Austin-Almighty/Austin-Almighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
